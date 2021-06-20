@@ -50,32 +50,4 @@ goto->root folder
 python App_Name.py
 ```
 
-## How to use App:
-
-### Home Page
-
-![Home Page](./Output/1.png)
-
-### Load Folder Where all songs are Downloaded
-
-![Spi Page](./Output/2.png)
-
-### Play song
-
-![Grade Page](./Output/3.png)
-
-### Go to Next and Previous song
-
-![Ans Page](./Output/4.png)
-
-### Change Volume
-
-![Ans Page](./Output/5.png)
-
-### Enjoy all Songs one by one
-
-![Ans Page](./Output/6.png)
-
-## This is Our project
-
 # Thank You
